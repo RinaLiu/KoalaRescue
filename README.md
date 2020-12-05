@@ -1,2 +1,2 @@
 # Koala Rescue Program
-Several small games in Java
+A koala rescue progrm for fun.
