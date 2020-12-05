@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SafeHaven
+comment0.text=\n\ Write\ a\ description\ of\ class\ SafeHaven\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SafeHaven()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SafeHaven\n
+comment2.params=listOfSafeKoalas
+comment2.target=SafeHaven(java.util.ArrayList)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ SafeHaven\n
+comment3.params=koala
+comment3.target=void\ addKoalas(Koala)
+comment4.params=
+comment4.target=int\ countInjurdKoala()
+comment5.params=
+comment5.target=java.lang.String\ display()
+comment6.params=
+comment6.target=java.util.ArrayList\ getListOfSafeKoalas()
+comment6.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment7.params=
+comment7.target=int\ getOldestKoala()
+comment8.params=k
+comment8.target=void\ removeKoala(Koala)
+comment9.params=listOfSafeKoalas
+comment9.target=void\ setListOfSafeKoalas(java.util.ArrayList)
+numComments=10

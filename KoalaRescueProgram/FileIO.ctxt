@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\n\ A\ FileIO\ class\ is\ used\ to\ read\ and\ write\ file.\n\n\ @author\ \ \ \ \ \ \ \ \ Ruimeng\ Liu\n\ @version\ \ \ \ \ \ \ \ 1.0\ (31.May.2019)\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FileIO\n
+comment2.params=filename
+comment2.target=java.lang.String\ readFile(java.lang.String)
+comment2.text=\n\ This\ is\ method\ which\ can\ read\ a\ file\ and\ return\ all\ infromation.\n\n\ @param\ \ filename\ \ A\ string\ to\ indicate\ the\ filename\n\ @return\ \ \ \ All\ information\ from\ the\ file\n\ @throws\ IOException\ If\ the\ method\ reads\ file\ failed\ ,it\ will\ throw\ IOException\n
+comment3.params=contents\ filename
+comment3.target=void\ writeFile(java.lang.String,\ java.lang.String)
+comment3.text=\n\ This\ is\ method\ which\ can\ read\ a\ file\ and\ return\ all\ infromation.\n\n\ @param\ \ filename\ \ A\ string\ to\ indicate\ the\ filename\n\ @param\ contents\ \ A\ string\ to\ indicate\ the\ contents\ which\ are\ wrote\ to\ the\ file\ \n\ @return\ \ \ \ All\ information\ from\ the\ file\n\ @throws\ IOException\ If\ the\ method\ reads\ file\ failed\ ,it\ will\ throw\ IOException\n
+numComments=4

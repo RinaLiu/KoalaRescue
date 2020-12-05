@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomNumber
+comment0.text=\n\ A\ RNG\ class\ is\ used\ to\ generate\ RNG\ object.\n\n\ @author\ \ \ \ \ \ \ \ \ \n\ @version\ \ \ \ \ \ \ \ \n
+comment1.params=
+comment1.target=RandomNumber()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RandomNumber\n
+comment2.params=maximumValue\ minimumValue
+comment2.target=int\ getRandom(int,\ int)
+comment2.text=\n\ This\ is\ the\ method\ which\ generates\ a\ random\ number\ between\ minimum\ and\ maximum\ value\n\n\ @return\ \ \ \ The\ random\ number\n
+numComments=3

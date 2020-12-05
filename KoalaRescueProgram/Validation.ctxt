@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ Write\ a\ description\ of\ class\ Validation\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Validation\n
+comment2.params=value\ min\ max
+comment2.target=boolean\ checkIntegerRange(int,\ int,\ int)
+comment3.params=string
+comment3.target=boolean\ checkStringCharacter(java.lang.String)
+comment4.params=aString\ min\ max
+comment4.target=boolean\ checkStringLength(java.lang.String,\ int,\ int)
+comment4.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment5.params=string
+comment5.target=boolean\ stringNumeric(java.lang.String)
+numComments=6
